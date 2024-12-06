@@ -2,6 +2,9 @@ body {
     background-color: bisque;
     color: darkblue;
     font-size: 12pt;
+    width:80%;
+    max-width:1000px;
+    margin:auto;
 }
 h2{
     font-size: 18pt;
@@ -20,4 +23,20 @@ h2{
 }
 li{
     color: firebrick;
+}
+a {
+    text-decoration: none;
+    border: 2.5px solid black;
+    border-radius: 9px;
+    padding: 10px;
+    margin: 20px;
+}
+
+a:hover{
+    background-color: green;
+    color: aqua;
+}
+
+img{
+    width: 100%;
 }
