@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+    color: darkblue;
+    font-size: 12pt;
+}
+h2{
+    font-size: 18pt;
+}
+#Savannah{
+    background-color: aqua;
+    color: brown;
+}
+#Bengáli{
+    background-color: blueviolet;
+    color: green;
+}
+#Scottish{
+    background-color: black;
+    color: salmon;
+}
+li{
+    color: firebrick;
+}
